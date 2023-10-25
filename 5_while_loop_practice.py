@@ -1,15 +1,16 @@
 # Challenge 0: Remember, to do the first thing for any Python activity!
 
+print('while loop')
 
 print('------------- Challenge 1')
 # Challenge 1:
 # Try to predict what the following code will do. Uncomment it, and see if you
 # got the prediction correct.
 
-#x = 0
-#while x < 10:
-#    print(x)
-#    x = x + 1
+x = 0
+while x < 10:
+   print(x)
+   x = x + 1
 
 
 print('------------- Challenge 2')
