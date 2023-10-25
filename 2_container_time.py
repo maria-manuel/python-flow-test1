@@ -54,39 +54,66 @@ print('Fish says:', favorite_animals_dict['fish'])
 print('Bird says:', favorite_animals_dict['bird'])
 
 
-
-
-
-
 print('--------------- Challenge 5')
 # Challenge 5:
 # Data types can be combined. Transform the following list into a dictionary
 # where each key is the category of animal, and the values are the list of the
 # animals that fall under that category.
 
-animals = [
-    # canines
-    'dogs',
-    'wolves',
+# animals = [
+#     # canines
+#     'dogs',
+#     'wolves',
 
-    # felines
+#     # felines
+#     'cats',
+#     'tigers',
+
+#     # rodents
+#     'mice',
+#     'hamsters',
+#     'gerbils',
+#     'capybaras',
+
+#     # notochord retaining fish
+#     'hagfish',
+#     'lamprey',
+#     'coelacanth',
+#     'sturgeon',
+# ]
+
+animals = {
+    
+    'canines':
+    ['dogs',
+    'wolves',
+    ],
+
+    
+    'felines':
+    [
     'cats',
     'tigers',
+    ],
 
-    # rodents
+    'rodents':
+    [
     'mice',
     'hamsters',
     'gerbils',
     'capybaras',
+    ],
 
-    # notochord retaining fish
+    'notochord retaining fish':
+    [
     'hagfish',
     'lamprey',
     'coelacanth',
     'sturgeon',
-]
+],
+}
 
-
+print(animals)
 
 
 
