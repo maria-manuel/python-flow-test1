@@ -61,10 +61,6 @@ else:
     print('no')
 
 
-
-
-
-
 print('------------- Challenge 3')
 # Challenge 3:
 # Look at your Python Week 3 cheatsheet. Examine the syntax and behavior of the

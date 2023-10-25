@@ -1,5 +1,6 @@
 # Challenge 0: Remember, to do the first thing for any Python activity!
 
+print('branching')
 
 print('------------- Challenge 1')
 # Challenge 1:
@@ -11,19 +12,13 @@ print('------------- Challenge 1')
 # Python, that can be accomplished by starting each line with a hash ( # ).
 
 
-
-
-
-
-
-
 print('------------- Challenge 2')
 # Challenge 2:
 # Uncomment the following line of code. Use "print" to say what the user typed
 # back at them.
-# username = input('Username? ')
-# password = input('Password? ')
-
+username = input('Username? ')
+password = input('Password? ')
+print(username, password)
 
 
 
