@@ -48,9 +48,10 @@ print('--------------- Challenge 4')
 #
 # Hint: You can use "," in print to print multiple things on the same line
 
-#print('Kitty says:', favorite_animals_dict['kitty'])
-
-
+print('Kitty says:', favorite_animals_dict['kitty'])
+print('Dog says:', favorite_animals_dict['dog'])
+print('Fish says:', favorite_animals_dict['fish'])
+print('Bird says:', favorite_animals_dict['bird'])
 
 
 
