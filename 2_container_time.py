@@ -41,9 +41,6 @@ favorite_animals_dict = {
 
 
 
-
-
-
 print('--------------- Challenge 4')
 # Challenge 4:
 # Now, using the dictionary you made in challenge 3, print each animal name,
