@@ -26,8 +26,8 @@ print('Challenge 2 -------------')
 
 home_team = '49ers'
 rival_team = 'Cowboys'
-home_score = '30'
-rival_score - '2'
+home_score = 30
+rival_score = 2
 
 
 print('Challenge 3 -------------')
