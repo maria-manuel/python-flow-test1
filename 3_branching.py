@@ -50,6 +50,15 @@ person_b = 'samantha'  # is person_b equal to 'samantha'?
 x = 100  # is x greater than 50?
 y = 13   # is y equal to 50?
 
+if person_a == person_b:
+    print('yes')
+else:
+    print('no')
+
+if x == y:
+    print('yes')
+else:
+    print('no')
 
 
 
