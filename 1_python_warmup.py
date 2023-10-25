@@ -28,7 +28,7 @@ home_team = '49ers'
 rival_team = 'Cowboys'
 home_score = 30
 rival_score = 2
-
+fantasy_score = 55
 
 print('Challenge 3 -------------')
 # Challenge 3:
