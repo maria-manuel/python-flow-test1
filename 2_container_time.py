@@ -21,8 +21,10 @@ print('--------------- Challenge 2')
 # Printing "kitty" is done for you, but commented out -- how will you print the
 # others?
 
-#print(favorite_animals_list[0])
-
+print(favorite_animals_list[0])
+print(favorite_animals_list[1])
+print(favorite_animals_list[2])
+print(favorite_animals_list[3])
 
 print('--------------- Challenge 3')
 # Challenge 3:
@@ -31,6 +33,9 @@ print('--------------- Challenge 3')
 # noise that it makes. The first one (kitty) is done for you.
 favorite_animals_dict = {
     'kitty': 'meow',
+    'dog': 'woof',
+    'fish': 'gulp',
+    'bird': 'sqwak',
 }
 
 
