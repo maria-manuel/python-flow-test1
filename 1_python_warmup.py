@@ -34,16 +34,11 @@ print('Challenge 3 -------------')
 # Challenge 3:
 # Uh oh, buggy code! One at a time, uncomment the following lines of code. Each
 # one has a single typo or mistake. Fix the mistakes to get it running.
-# printer("The most anticipated game today: ", home_team, "vs", rival_team)
-# print(home_team, "won against", Rival_Team)
-# print(home_team, "managed to score" home_score "points")
-# print "The pathetic", rival_team, "only scored", rival_score, "points"
 
-
-
-
-
-
+print("The most anticipated game today: ", home_team, "vs", rival_team)
+print(home_team, "won against", rival_team)
+print(home_team, "managed to score", home_score, "points")
+print("The pathetic", rival_team, "only scored", rival_score, "points")
 
 
 print('Challenge 4 -------------')

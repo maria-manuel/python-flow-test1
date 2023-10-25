@@ -2,19 +2,17 @@
 # file you are working with?
 # (Answer: add a "print", to make sure you are editing the right file!)
 
+print('container time')
 
 print('--------------- Challenge 1')
 # Challenge 1:
 # Modify this list to be a list of your top 5 favorite animals. This can be
 # done by following the pattern of 'kitty'.
 favorite_animals_list = [
-    'kitty',
+    'kitty', 'dog', 'fish', 'bird'
 ]
 
-
-
-
-
+print(favorite_animals_list)
 
 
 print('--------------- Challenge 2')
@@ -23,13 +21,7 @@ print('--------------- Challenge 2')
 # Printing "kitty" is done for you, but commented out -- how will you print the
 # others?
 
-
 #print(favorite_animals_list[0])
-
-
-
-
-
 
 
 print('--------------- Challenge 3')
