@@ -34,8 +34,10 @@ print('------------- Challenge 3')
 #
 # Can you write it in Python?
 
-
-
+if username == 'AzureDiamond' and password == 'hunter2':
+    print('Logged on!')
+else:
+    print('Incorrect, go away')
 
 
 
