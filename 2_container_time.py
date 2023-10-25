@@ -123,9 +123,9 @@ print(animals)
 # use for each of the following scenarios? Create an variable with example data
 # for each scenario.
 #
-# 1. File paths, e.g. for content for a static site generator
-# 2. Translation of words from one language to another
-# 3. Dog breeds and their average longevity
+# 1. File paths, e.g. for content for a static site generator = list
+# 2. Translation of words from one language to another = dict
+# 3. Dog breeds and their average longevity = dict
 # 4. Harder: Locations: Places in a mapping application like Google Maps or
-#    Yelp, including their latitude and longitude and reviews
+#    Yelp, including their latitude and longitude and reviews = dict & list
 

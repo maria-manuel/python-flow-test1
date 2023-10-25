@@ -2,6 +2,7 @@
 # file you are working with?
 # (Answer: add a "print", to make sure you are editing the right file!)
 
+print('branching')
 
 print('------------- Challenge 1')
 # Challenge 1:
@@ -14,23 +15,23 @@ if name == "Brock":
 else:
     print("I don't know who you are.")
 
-#name = "Gary"
-#if name = "Brock":
-#    print("Hi Brock!")
-#else:
-#    print("I don't know who you are.")
+name = "Gary"
+if name == "Brock":
+   print("Hi Brock!")
+else:
+   print("I don't know who you are.")
 
-#age = 22
-#if age > 21:
-#print("Old enough to drink")
-#else:
-#print("Too young to drink")
+age = 22
+if age > 21:
+    print("Old enough to drink")
+else:
+    print("Too young to drink")
 
-#age = 17
-#if age > 21
-#    print("Old enough to drink")
-#else
-#    print("Too young to drink")
+age = 17
+if age > 21:
+   print("Old enough to drink")
+else:
+   print("Too young to drink")
 
 
 print('------------- Challenge 2')
